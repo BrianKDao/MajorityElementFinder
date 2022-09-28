@@ -1,6 +1,6 @@
 # MajorityElementFinder
 Input:  
-  narray of N positive integers - size of the problem is N n
+-array of N positive integers - size of the problem is N n
   
 Input Format:–First line: a single integer number N>=3, N<=1,000,000, showing the number of integers in the array (it is not in the array)
 –Following N lines: each contains a single positive integer containing the elements of the array 
