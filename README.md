@@ -16,7 +16,11 @@ Output format: –A single line, with a single integer:
 -X if integer X is the majority element of the input array
 
 Input should be read into array of integers: int[] (do not use ArrayList)
+
 The code should work on that array, without re-formatting the data e.g. into a linked list or any other data structure
+
 The algorithm should have O(N) time complexity
+
 Use of any Java built-in functions/classes is NOT allowed
+
 With the exception of functions from Scanner, System.in and System.out (or equivalent) for input/output
